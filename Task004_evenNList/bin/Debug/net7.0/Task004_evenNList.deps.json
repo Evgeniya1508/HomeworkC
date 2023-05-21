@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Task004_evenNList/1.0.0": {
+        "runtime": {
+          "Task004_evenNList.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Task004_evenNList/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+/Users/evgeniabarteneva/HomeworkC/Task004_evenNList/obj/Debug/net7.0/Task004_evenNList.csproj.AssemblyReference.cache
+/Users/evgeniabarteneva/HomeworkC/Task004_evenNList/obj/Debug/net7.0/Task004_evenNList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/evgeniabarteneva/HomeworkC/Task004_evenNList/obj/Debug/net7.0/Task004_evenNList.AssemblyInfoInputs.cache
+/Users/evgeniabarteneva/HomeworkC/Task004_evenNList/obj/Debug/net7.0/Task004_evenNList.AssemblyInfo.cs
+/Users/evgeniabarteneva/HomeworkC/Task004_evenNList/obj/Debug/net7.0/Task004_evenNList.csproj.CoreCompileInputs.cache
+/Users/evgeniabarteneva/HomeworkC/Task004_evenNList/bin/Debug/net7.0/Task004_evenNList
+/Users/evgeniabarteneva/HomeworkC/Task004_evenNList/bin/Debug/net7.0/Task004_evenNList.deps.json
+/Users/evgeniabarteneva/HomeworkC/Task004_evenNList/bin/Debug/net7.0/Task004_evenNList.runtimeconfig.json
+/Users/evgeniabarteneva/HomeworkC/Task004_evenNList/bin/Debug/net7.0/Task004_evenNList.dll
+/Users/evgeniabarteneva/HomeworkC/Task004_evenNList/bin/Debug/net7.0/Task004_evenNList.pdb
+/Users/evgeniabarteneva/HomeworkC/Task004_evenNList/obj/Debug/net7.0/Task004_evenNList.dll
+/Users/evgeniabarteneva/HomeworkC/Task004_evenNList/obj/Debug/net7.0/refint/Task004_evenNList.dll
+/Users/evgeniabarteneva/HomeworkC/Task004_evenNList/obj/Debug/net7.0/Task004_evenNList.pdb
+/Users/evgeniabarteneva/HomeworkC/Task004_evenNList/obj/Debug/net7.0/Task004_evenNList.genruntimeconfig.cache
+/Users/evgeniabarteneva/HomeworkC/Task004_evenNList/obj/Debug/net7.0/ref/Task004_evenNList.dll
