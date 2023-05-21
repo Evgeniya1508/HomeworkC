@@ -1,0 +1,15 @@
+/Users/evgeniabarteneva/HomeworkC/Task001_maxNumber/bin/Debug/net7.0/Task001_maxNumber
+/Users/evgeniabarteneva/HomeworkC/Task001_maxNumber/bin/Debug/net7.0/Task001_maxNumber.deps.json
+/Users/evgeniabarteneva/HomeworkC/Task001_maxNumber/bin/Debug/net7.0/Task001_maxNumber.runtimeconfig.json
+/Users/evgeniabarteneva/HomeworkC/Task001_maxNumber/bin/Debug/net7.0/Task001_maxNumber.dll
+/Users/evgeniabarteneva/HomeworkC/Task001_maxNumber/bin/Debug/net7.0/Task001_maxNumber.pdb
+/Users/evgeniabarteneva/HomeworkC/Task001_maxNumber/obj/Debug/net7.0/Task001_maxNumber.csproj.AssemblyReference.cache
+/Users/evgeniabarteneva/HomeworkC/Task001_maxNumber/obj/Debug/net7.0/Task001_maxNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/evgeniabarteneva/HomeworkC/Task001_maxNumber/obj/Debug/net7.0/Task001_maxNumber.AssemblyInfoInputs.cache
+/Users/evgeniabarteneva/HomeworkC/Task001_maxNumber/obj/Debug/net7.0/Task001_maxNumber.AssemblyInfo.cs
+/Users/evgeniabarteneva/HomeworkC/Task001_maxNumber/obj/Debug/net7.0/Task001_maxNumber.csproj.CoreCompileInputs.cache
+/Users/evgeniabarteneva/HomeworkC/Task001_maxNumber/obj/Debug/net7.0/Task001_maxNumber.dll
+/Users/evgeniabarteneva/HomeworkC/Task001_maxNumber/obj/Debug/net7.0/refint/Task001_maxNumber.dll
+/Users/evgeniabarteneva/HomeworkC/Task001_maxNumber/obj/Debug/net7.0/Task001_maxNumber.pdb
+/Users/evgeniabarteneva/HomeworkC/Task001_maxNumber/obj/Debug/net7.0/Task001_maxNumber.genruntimeconfig.cache
+/Users/evgeniabarteneva/HomeworkC/Task001_maxNumber/obj/Debug/net7.0/ref/Task001_maxNumber.dll
