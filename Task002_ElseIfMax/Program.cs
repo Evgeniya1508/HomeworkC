@@ -5,6 +5,7 @@ int secondNumber = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Введите третье число: ");
 int thirdNumber = Convert.ToInt32(Console.ReadLine());
 int max = firstNumber;
+
 if (secondNumber > max)
 {
     max = secondNumber;
@@ -17,6 +18,9 @@ Console.WriteLine("Максимальное число: " + max);
 
 
 
+
+
+        
 
 
 
