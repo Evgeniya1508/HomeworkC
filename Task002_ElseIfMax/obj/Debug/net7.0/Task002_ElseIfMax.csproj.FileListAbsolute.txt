@@ -1,0 +1,15 @@
+/Users/evgeniabarteneva/HomeworkC/Task002_ElseIfMax/obj/Debug/net7.0/Task002_ElseIfMax.csproj.AssemblyReference.cache
+/Users/evgeniabarteneva/HomeworkC/Task002_ElseIfMax/obj/Debug/net7.0/Task002_ElseIfMax.GeneratedMSBuildEditorConfig.editorconfig
+/Users/evgeniabarteneva/HomeworkC/Task002_ElseIfMax/obj/Debug/net7.0/Task002_ElseIfMax.AssemblyInfoInputs.cache
+/Users/evgeniabarteneva/HomeworkC/Task002_ElseIfMax/obj/Debug/net7.0/Task002_ElseIfMax.AssemblyInfo.cs
+/Users/evgeniabarteneva/HomeworkC/Task002_ElseIfMax/obj/Debug/net7.0/Task002_ElseIfMax.csproj.CoreCompileInputs.cache
+/Users/evgeniabarteneva/HomeworkC/Task002_ElseIfMax/bin/Debug/net7.0/Task002_ElseIfMax
+/Users/evgeniabarteneva/HomeworkC/Task002_ElseIfMax/bin/Debug/net7.0/Task002_ElseIfMax.deps.json
+/Users/evgeniabarteneva/HomeworkC/Task002_ElseIfMax/bin/Debug/net7.0/Task002_ElseIfMax.runtimeconfig.json
+/Users/evgeniabarteneva/HomeworkC/Task002_ElseIfMax/bin/Debug/net7.0/Task002_ElseIfMax.dll
+/Users/evgeniabarteneva/HomeworkC/Task002_ElseIfMax/bin/Debug/net7.0/Task002_ElseIfMax.pdb
+/Users/evgeniabarteneva/HomeworkC/Task002_ElseIfMax/obj/Debug/net7.0/Task002_ElseIfMax.dll
+/Users/evgeniabarteneva/HomeworkC/Task002_ElseIfMax/obj/Debug/net7.0/refint/Task002_ElseIfMax.dll
+/Users/evgeniabarteneva/HomeworkC/Task002_ElseIfMax/obj/Debug/net7.0/Task002_ElseIfMax.pdb
+/Users/evgeniabarteneva/HomeworkC/Task002_ElseIfMax/obj/Debug/net7.0/Task002_ElseIfMax.genruntimeconfig.cache
+/Users/evgeniabarteneva/HomeworkC/Task002_ElseIfMax/obj/Debug/net7.0/ref/Task002_ElseIfMax.dll
