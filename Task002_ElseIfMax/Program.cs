@@ -6,13 +6,13 @@ Console.WriteLine("Введите третье число");
 int thirdNumber = int.Parse(Console.ReadLine());
 if (firNumber > secNumber)
 {
-    Console.WriteLine("Максимальное число = " +  firNumber);
+    Console.WriteLine("Максимальное число: " +  firNumber);
 }
 else if (secNumber < thirdNumber)
 {
-    Console.WriteLine("Максимальное число = " + thirdNumber);
+    Console.WriteLine("Максимальное число: " + thirdNumber);
 }
 else
 {
-    Console.WriteLine("Максимальное число = " + secNumber);
+    Console.WriteLine("Максимальное число: " + secNumber);
 }
